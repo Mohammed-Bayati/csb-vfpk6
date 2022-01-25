@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://mohammed-bayati.github.io/csb-vfpk6/static/js/main.a2469041.chunk.js",
+    "main.js.map": "https://mohammed-bayati.github.io/csb-vfpk6/static/js/main.a2469041.chunk.js.map",
+    "runtime-main.js": "https://mohammed-bayati.github.io/csb-vfpk6/static/js/runtime-main.b777de80.js",
+    "runtime-main.js.map": "https://mohammed-bayati.github.io/csb-vfpk6/static/js/runtime-main.b777de80.js.map",
+    "static/js/2.fc726699.chunk.js": "https://mohammed-bayati.github.io/csb-vfpk6/static/js/2.fc726699.chunk.js",
+    "static/js/2.fc726699.chunk.js.map": "https://mohammed-bayati.github.io/csb-vfpk6/static/js/2.fc726699.chunk.js.map",
+    "index.html": "https://mohammed-bayati.github.io/csb-vfpk6/index.html",
+    "precache-manifest.8cd2095b4e83f0a59a54244511aeb149.js": "https://mohammed-bayati.github.io/csb-vfpk6/precache-manifest.8cd2095b4e83f0a59a54244511aeb149.js",
+    "service-worker.js": "https://mohammed-bayati.github.io/csb-vfpk6/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b777de80.js",
+    "static/js/2.fc726699.chunk.js",
+    "static/js/main.a2469041.chunk.js"
+  ]
+}
